@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kalkulator-spalania/precache-manifest.b041b1809f51d7c8213fd74fc50ed05c.js"
+  "/kalkulator-spalania/precache-manifest.e27432e23478202459eb5242e449107b.js"
 );
 
 self.addEventListener('message', (event) => {
