@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39e1297354f1333e1fc67ff0da3bcfcf",
+    "revision": "1151810f714aca57542f3f249185fe95",
     "url": "/kalkulator-spalania/index.html"
   },
   {
-    "revision": "f8c05623dbf1c8fc905a",
+    "revision": "bd5b861e3bce3de999b7",
     "url": "/kalkulator-spalania/static/css/main.d498bfb3.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kalkulator-spalania/static/js/2.373ccd69.chunk.js"
   },
   {
-    "revision": "f8c05623dbf1c8fc905a",
-    "url": "/kalkulator-spalania/static/js/main.8a8f8ecb.chunk.js"
+    "revision": "bd5b861e3bce3de999b7",
+    "url": "/kalkulator-spalania/static/js/main.6b8da106.chunk.js"
   },
   {
     "revision": "f9d3debc77a76e526fb8",

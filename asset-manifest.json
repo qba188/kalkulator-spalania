@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kalkulator-spalania/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/kalkulator-spalania/static/js/main.8a8f8ecb.chunk.js",
-    "main.js.map": "/kalkulator-spalania/static/js/main.8a8f8ecb.chunk.js.map",
+    "main.js": "/kalkulator-spalania/static/js/main.6b8da106.chunk.js",
+    "main.js.map": "/kalkulator-spalania/static/js/main.6b8da106.chunk.js.map",
     "runtime~main.js": "/kalkulator-spalania/static/js/runtime~main.68c670e3.js",
     "runtime~main.js.map": "/kalkulator-spalania/static/js/runtime~main.68c670e3.js.map",
     "static/js/2.373ccd69.chunk.js": "/kalkulator-spalania/static/js/2.373ccd69.chunk.js",
     "static/js/2.373ccd69.chunk.js.map": "/kalkulator-spalania/static/js/2.373ccd69.chunk.js.map",
     "index.html": "/kalkulator-spalania/index.html",
-    "precache-manifest.e27432e23478202459eb5242e449107b.js": "/kalkulator-spalania/precache-manifest.e27432e23478202459eb5242e449107b.js",
+    "precache-manifest.3991b9825511865913ae4a8f2bd28076.js": "/kalkulator-spalania/precache-manifest.3991b9825511865913ae4a8f2bd28076.js",
     "service-worker.js": "/kalkulator-spalania/service-worker.js",
     "static/css/main.d498bfb3.chunk.css.map": "/kalkulator-spalania/static/css/main.d498bfb3.chunk.css.map"
   }
